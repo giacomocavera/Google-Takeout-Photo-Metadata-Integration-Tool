@@ -51,3 +51,6 @@ For the tool to function correctly, the input folder must contain subfolders org
 - **Metadata files**: Alongside each image or video file, there should be a corresponding `.json` file containing metadata (e.g., `photo1.jpg.json`).
 
 The program will use the metadata in the JSON files to update the EXIF data of the photos and modify the timestamps of the videos.
+
+![Example](images/example1.png)
+![Example](images/example2.png)
